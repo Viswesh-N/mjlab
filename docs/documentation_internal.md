@@ -1075,7 +1075,7 @@ make format
 
 - **Issues:** https://github.com/mujocolab/mjlab/issues
 - **Discussions:** https://github.com/mujocolab/mjlab/discussions
-- **Docs:** https://docs.claude.com (if available)
+- **Docs:**  (if available)
 
 ---
 
